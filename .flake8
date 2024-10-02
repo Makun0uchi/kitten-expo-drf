@@ -1,0 +1,15 @@
+[flake8]
+max-line-length = 100
+import-order-style = pycharm
+count = True
+statistics = True
+jobs = auto
+
+exclude =
+    .git,
+    .gitignore,
+    __pycache__,
+    venv,
+    */migrations/*,
+    .env,
+    .venv
