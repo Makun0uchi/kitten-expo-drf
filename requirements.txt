@@ -6,3 +6,4 @@ django-jazzmin
 drf-yasg
 flake8
 djangorestframework-simplejwt
+django-filter
