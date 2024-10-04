@@ -1,11 +1,17 @@
 from django.urls import path, include
 from rest_framework import routers
-from .views import BreedAPIView, KittenView
+from .views import (
+    BreedAPIView,
+    KittenViewSet,
+    KittenRatingViewSet,
+)
+
 
 router = routers.DefaultRouter()
-router.register(r'kittens', KittenView)
+router.register(r'kittens', KittenViewSet)
+router.register(r'ratings', KittenRatingViewSet)
 
 urlpatterns = [
-    path('breeds', BreedAPIView.as_view(), name='breeds'),
+    path('breeds/', BreedAPIView.as_view(), name='breeds'),
     path('', include(router.urls)),
 ]
