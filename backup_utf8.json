@@ -1,0 +1,773 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-10-04T10:23:17.124Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "user",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-10-04T10:23:48.928Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "Sphynx",
+    "object_repr": "Sphynx",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-10-04T10:24:49.113Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "Ragdoll",
+    "object_repr": "Ragdoll",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-10-04T10:25:09.636Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "british longhair",
+    "object_repr": "british longhair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-10-04T10:25:15.460Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "british shorthair",
+    "object_repr": "british shorthair",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-10-04T10:25:21.724Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "sphynx",
+    "object_repr": "sphynx",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-10-04T10:25:34.048Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "ragdoll",
+    "object_repr": "ragdoll",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-10-04T10:25:44.052Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "Sphynx",
+    "object_repr": "Sphynx",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-10-04T10:25:44.053Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "Ragdoll",
+    "object_repr": "Ragdoll",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-10-04T10:25:59.007Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "maine coon",
+    "object_repr": "maine coon",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-10-04T10:26:29.364Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "admin: british longhair Lex",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-10-04T10:26:54.949Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "admin: ragdoll Meow",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-10-04T10:27:22.862Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "user: maine coon Milka",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-10-04T10:27:33.537Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "user: Milka - 5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-10-04T10:27:45.937Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "user: Milka - 5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-10-04T10:28:13.203Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "user: Meow - 4",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Kitten\", \"Score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-10-04T10:28:23.083Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "admin: Milka - 5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-10-04T10:28:37.220Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "admin: Lex - 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add ╧юЁюфр",
+    "content_type": 7,
+    "codename": "add_breed"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change ╧юЁюфр",
+    "content_type": 7,
+    "codename": "change_breed"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete ╧юЁюфр",
+    "content_type": 7,
+    "codename": "delete_breed"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view ╧юЁюфр",
+    "content_type": 7,
+    "codename": "view_breed"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add ╩юЄхэюъ",
+    "content_type": 8,
+    "codename": "add_kitten"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change ╩юЄхэюъ",
+    "content_type": 8,
+    "codename": "change_kitten"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete ╩юЄхэюъ",
+    "content_type": 8,
+    "codename": "delete_kitten"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view ╩юЄхэюъ",
+    "content_type": 8,
+    "codename": "view_kitten"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add ╨хщЄшэу",
+    "content_type": 9,
+    "codename": "add_kittenrating"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change ╨хщЄшэу",
+    "content_type": 9,
+    "codename": "change_kittenrating"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete ╨хщЄшэу",
+    "content_type": 9,
+    "codename": "delete_kittenrating"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view ╨хщЄшэу",
+    "content_type": 9,
+    "codename": "view_kittenrating"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 10,
+    "codename": "add_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 10,
+    "codename": "change_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 10,
+    "codename": "delete_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 10,
+    "codename": "view_token"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add Token",
+    "content_type": 11,
+    "codename": "add_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change Token",
+    "content_type": 11,
+    "codename": "change_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete Token",
+    "content_type": 11,
+    "codename": "delete_tokenproxy"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view Token",
+    "content_type": 11,
+    "codename": "view_tokenproxy"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$jQ8gVOdmxGeQkCuA9sQ1RE$mzeOYvJz7KPhwOnjM2oo0RNEtUXVo35LPHL4ywqHrhI=",
+    "last_login": "2024-10-04T10:29:08.474Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-10-04T10:22:38.770Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$EgCvXzJ1hvOHmM7uiu5Ec6$mPms7uXA3UQ9GUTsdfwhYCiLi3mwHLRTdXmRLQZF7xo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-10-04T10:23:16.782Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w241ilyi75s5ua9o4sl8cj3mljcigarw",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlmxHf8o6TmDtetd4wBypDipEHeHSCmgfTPzXiLBtta0dV7SROIslDj9bgj5wW0HdId2m2We27pMKHdFHrTL60z8vBzu30GFXr81WjJjHDz7gspHjoVAkws6ZHCZnXFaDdG4qCDkYq1hDAasDch29Eji_QHlYTfs:1swfSY:vfb0UAI2pVEUko68ptMA10SHHa7rrrD9lhgIxSKBXJU",
+    "expire_date": "2024-10-18T10:22:54.725Z"
+  }
+},
+{
+  "model": "kitten.breed",
+  "pk": "british longhair",
+  "fields": {}
+},
+{
+  "model": "kitten.breed",
+  "pk": "british shorthair",
+  "fields": {}
+},
+{
+  "model": "kitten.breed",
+  "pk": "maine coon",
+  "fields": {}
+},
+{
+  "model": "kitten.breed",
+  "pk": "ragdoll",
+  "fields": {}
+},
+{
+  "model": "kitten.breed",
+  "pk": "sphynx",
+  "fields": {}
+},
+{
+  "model": "kitten.kitten",
+  "pk": 1,
+  "fields": {
+    "name": "Lex",
+    "color": "Black",
+    "age_in_months": 23,
+    "description": "Lex :)",
+    "breed": "british longhair",
+    "owner": 1
+  }
+},
+{
+  "model": "kitten.kitten",
+  "pk": 2,
+  "fields": {
+    "name": "Meow",
+    "color": "Red",
+    "age_in_months": 44,
+    "description": "Meow",
+    "breed": "ragdoll",
+    "owner": 1
+  }
+},
+{
+  "model": "kitten.kitten",
+  "pk": 3,
+  "fields": {
+    "name": "Milka",
+    "color": "White",
+    "age_in_months": 12,
+    "description": "Milka :*",
+    "breed": "maine coon",
+    "owner": 2
+  }
+},
+{
+  "model": "kitten.kittenrating",
+  "pk": 1,
+  "fields": {
+    "kitten": 3,
+    "user": 2,
+    "score": 5
+  }
+},
+{
+  "model": "kitten.kittenrating",
+  "pk": 2,
+  "fields": {
+    "kitten": 2,
+    "user": 2,
+    "score": 4
+  }
+},
+{
+  "model": "kitten.kittenrating",
+  "pk": 3,
+  "fields": {
+    "kitten": 3,
+    "user": 1,
+    "score": 5
+  }
+},
+{
+  "model": "kitten.kittenrating",
+  "pk": 4,
+  "fields": {
+    "kitten": 1,
+    "user": 1,
+    "score": 2
+  }
+}
+]
