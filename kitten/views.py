@@ -113,6 +113,7 @@ class KittenRatingViewSet(
             'partial_update': (IsAuthenticated, IsRatingOwner,),
             'destroy': (IsAuthenticated, IsRatingOwner,),
         }
+        default_permissions = (IsAuthenticated,)
 
         action = self.action
-        return [permission() for permission in permission_classes[action]]
+        return [permission() for permission in permission_classes.get(action, default_permissions)]
